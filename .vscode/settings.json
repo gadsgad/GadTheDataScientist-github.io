@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.windowsEnableConpty": true,
+    "terminal.integrated.env.windows": {
+    
+    },
+    "code-runner.runInTerminal": true
+}
